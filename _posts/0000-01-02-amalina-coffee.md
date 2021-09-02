@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This is new, more descriptive text by amalina-coffee
 Use the left arrow to go back!
 
